@@ -40,11 +40,19 @@
 
 ## GitHub Stats
 
-![Safwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aspiroo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspiroo&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aspiroo&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aspiroo&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aspiroo&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aspiroo&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aspiroo&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aspiroo&theme=tokyonight)
+
+[![Safwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aspiroo&theme=tokyo-night&hide_border=true)](https://github.com/aspiroo)
+
+</div>
 
 ## Let's Connect!
 
